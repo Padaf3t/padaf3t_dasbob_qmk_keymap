@@ -15,22 +15,28 @@ The keyboard layout utilize Canadian multilingual standard which make it more ea
 The keymap utilizes multiple layers to organize key functions efficiently. Each layer serves a distinct purpose, allowing for a versatile and customizable typing experience.
 
 First is my alpha layer(BASE) which is in a modified optimot layout [OPTIMOT](https://optimot.fr). A layout optimise for French and English
+
 ![BASE layer](dasbob/keymaps/Padaf3tV1/LayoutImg/BASE.jpg)
 
 Next is my two accented layer for circumflex and trema (they use the same letter position as the base layer)
+
 ![CIRC layer](dasbob/keymaps/Padaf3tV1/LayoutImg/CIRC.jpg)
 ![TREM layer](dasbob/keymaps/Padaf3tV1/LayoutImg/TREM.jpg)
 
 Next my symbol layer which is taken from Getreuer
+
 ![SYM layer](dasbob/keymaps/Padaf3tV1/LayoutImg/SYM.jpg)
 
 Now my number layer which use a style similar to dvorak layout, Even number on the left side and Odd number on the rigth. The space is put to make it more easy to space the number
+
 ![NUM layer](dasbob/keymaps/Padaf3tV1/LayoutImg/NUM.jpg)
 
 Here is my function layer, similar to the number layer for the position, I add some function like ctrl-alt-delete and open task manager to have a more easy way to type them
+
 ![FUN layer](dasbob/keymaps/Padaf3tV1/LayoutImg/FUN.jpg)
 
 The next two layer are for the navigation on the screen and in windows
+
 ![NAV layer](dasbob/keymaps/Padaf3tV1/LayoutImg/NAV.jpg)
 ![WIN layer](dasbob/keymaps/Padaf3tV1/LayoutImg/WIN.jpg)
 
