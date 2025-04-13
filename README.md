@@ -13,6 +13,7 @@ The keymap is structured to provide intuitive access to various functions throug
 The keyboard layout utilize Canadian multilingual standard which make it more easy typing (or doing macro) for accented character present in French
 
 The keymap utilizes multiple layers to organize key functions efficiently. Each layer serves a distinct purpose, allowing for a versatile and customizable typing experience.
+Please note that the red key are for the combo
 
 First is my alpha layer(BASE) which is in a modified optimot layout [OPTIMOT](https://optimot.fr). A layout optimise for French and English
 
