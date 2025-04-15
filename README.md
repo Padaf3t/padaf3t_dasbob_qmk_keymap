@@ -15,7 +15,7 @@ The keyboard layout utilize Canadian multilingual standard which make it more ea
 The keymap utilizes multiple layers to organize key functions efficiently. Each layer serves a distinct purpose, allowing for a versatile and customizable typing experience.
 Please note that the red key are for the combo
 
-First is my alpha layer(BASE) which is in a modified optimot layout [OPTIMOT](https://optimot.fr). A layout optimise for French and English
+First is my alpha layer(BASE) which is in a modified [optimot](https://optimot.fr) layout. A layout optimise for French and English
 
 ![BASE layer](dasbob/keymaps/Padaf3tV1/LayoutImg/BASE.jpg)
 
@@ -24,7 +24,7 @@ Next is my two accented layer for circumflex and trema (they use the same letter
 ![CIRC layer](dasbob/keymaps/Padaf3tV1/LayoutImg/CIRC.jpg)
 ![TREM layer](dasbob/keymaps/Padaf3tV1/LayoutImg/TREM.jpg)
 
-Next my symbol layer which is taken from Getreuer
+Next my symbol layer which is taken from [Getreuer](https://getreuer.info/posts/keyboards/symbol-layer/index.html)
 
 ![SYM layer](dasbob/keymaps/Padaf3tV1/LayoutImg/SYM.jpg)
 
@@ -60,4 +60,4 @@ For detailed instructions on adding custom keymaps, refer to the [QMK Keymap Doc
 - [QMK Keymap Documentation](https://docs.qmk.fm/keymap)
 - [QMK Documentation Templates](https://docs.qmk.fm/documentation_templates)
 - [QMK Keyboard Guidelines](https://docs.qmk.fm/hardware_keyboard_guidelines)
-- [Designing a symbol layer](https://getreuer.info/posts/keyboards/symbol-layer/index.html))
+- [Designing a symbol layer](https://getreuer.info/posts/keyboards/symbol-layer/index.html)
