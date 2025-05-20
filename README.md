@@ -39,7 +39,6 @@ Here is my function layer, similar to the number layer for the position, I add s
 The next two layer are for the navigation on the screen and in windows
 
 ![NAV layer](dasbob/keymaps/Padaf3tV1/LayoutImg/NAV.jpg)
-![WIN layer](dasbob/keymaps/Padaf3tV1/LayoutImg/WIN.jpg)
 
 ## Adding This Keymap to Your QMK Setup
 
